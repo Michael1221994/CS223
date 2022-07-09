@@ -1,0 +1,17 @@
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\bin\Debug\net6.0-windows\Csharpassignmen4.exe
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\bin\Debug\net6.0-windows\Csharpassignmen4.deps.json
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\bin\Debug\net6.0-windows\Csharpassignmen4.runtimeconfig.json
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\bin\Debug\net6.0-windows\Csharpassignmen4.dll
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\bin\Debug\net6.0-windows\Csharpassignmen4.pdb
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.csproj.AssemblyReference.cache
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.Form1.resources
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.csproj.GenerateResource.cache
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.AssemblyInfoInputs.cache
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.AssemblyInfo.cs
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.csproj.CoreCompileInputs.cache
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.dll
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\refint\Csharpassignmen4.dll
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.pdb
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\Csharpassignmen4.genruntimeconfig.cache
+C:\Users\Public\2017\Documents\Csharpassignmen4\Csharpassignmen4\obj\Debug\net6.0-windows\ref\Csharpassignmen4.dll
