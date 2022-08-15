@@ -1,0 +1,12 @@
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\bin\Release\Assignment4_InventoryProject.exe
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\bin\Release\Assignment4_InventoryProject.exe.config
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.csproj.AssemblyReference.cache
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.Form1.resources
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.Login.resources
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.main_container.resources
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.Properties.Resources.resources
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.csproj.GenerateResource.cache
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.exe
+C:\Users\Public\2017\Downloads\Telegram Desktop\Assignment 6\obj\Release\Assignment4_InventoryProject.pdb

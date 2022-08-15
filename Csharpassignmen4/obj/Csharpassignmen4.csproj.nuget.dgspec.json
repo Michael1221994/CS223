@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\2017\\Documents\\Csharpassignmen4\\Csharpassignmen4\\Csharpassignmen4.csproj": {}
+    "C:\\Users\\Public\\2017\\Documents\\Downloads\\CS223\\Csharpassignmen4\\Csharpassignmen4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\2017\\Documents\\Csharpassignmen4\\Csharpassignmen4\\Csharpassignmen4.csproj": {
+    "C:\\Users\\Public\\2017\\Documents\\Downloads\\CS223\\Csharpassignmen4\\Csharpassignmen4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\2017\\Documents\\Csharpassignmen4\\Csharpassignmen4\\Csharpassignmen4.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\2017\\Documents\\Downloads\\CS223\\Csharpassignmen4\\Csharpassignmen4.csproj",
         "projectName": "Csharpassignmen4",
-        "projectPath": "C:\\Users\\Public\\2017\\Documents\\Csharpassignmen4\\Csharpassignmen4\\Csharpassignmen4.csproj",
+        "projectPath": "C:\\Users\\Public\\2017\\Documents\\Downloads\\CS223\\Csharpassignmen4\\Csharpassignmen4.csproj",
         "packagesPath": "C:\\Users\\Public\\2017\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\2017\\Documents\\Csharpassignmen4\\Csharpassignmen4\\obj\\",
+        "outputPath": "C:\\Users\\Public\\2017\\Documents\\Downloads\\CS223\\Csharpassignmen4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Public\\2017\\AppData\\Roaming\\NuGet\\NuGet.Config",
